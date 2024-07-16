@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(234, 234, 234) ;
+}
+.Login-page-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    margin: 50px;
+}
+
+.Login-page-container img{
+    height: 150px;
+    width: 300px;
+    
+
+}
+.Login-page-container p{
+    font-size: 30px;
+    width: 70%;
+    
+}
+/* logo-fro-contolar */
+.login-for-contol{
+    border: 2px solid rgb(217, 209, 209);
+    padding: 20px;
+    background: white;
+    box-shadow: 10px 10px 50px rgb(254, 254, 254);
+    border-radius: 5px;
+}
+.login-for-contol input{
+    width: 350px;
+    height: 20px;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid rgb(179, 178, 178);
+    border-radius: 5px;
+    font-size: 15px;
+  
+}
+.log-style button{
+    background-color: RGB(57 137 217);
+    color: white;
+    border: 2px solid rgb(163, 161, 161);
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.Forgotten a{
+  color:rgb(40, 71, 196);
+  text-decoration: none;
+}
+.Forgotten{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Create button{
+    background-color: rgb(42, 168, 50);
+    color: white;
+    border: 2px solid rgb(163, 161, 161);
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;transform: translateX(90px);
+}
+hr{
+    margin-bottom: 40px;
+    color: rgb(255, 255, 255);
+}
